@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "contentHash": "203afea42099ea682f4f8d2afec787587cf1c12556d103bf47d27cc7a40fd584",
+  "contentHash": "35348e8df1c41dac62527e70bfc9a52beb8a2ab66feb1dced5b8eec463233e52",
   "siteUrl": "https://flyliu.org",
   "files": {
     "assets/journal/becoming-105cc463c20b964138a45e16.png": "105cc463c20b964138a45e166b5979704c9cd684bf366dfd23137a404d9bb435",
     "assets/journal/becoming-95cb060c4c26ec31aabfd81d.png": "95cb060c4c26ec31aabfd81d9912c171fb4b391a98aabb1955e5b25a71739f83",
     "assets/journal/becoming-a09ea2a072685adefcd7c51c.png": "a09ea2a072685adefcd7c51c8b288506ee17dbdf7fd0da9a8660612d8d9a82e6",
     "assets/journal/becoming-aecd3a9eb204c311ec0595ba.png": "aecd3a9eb204c311ec0595ba787421886561a7f2a1514d61d3a34f247776b3d8",
+    "articles/entry-ac12be76e1244cceaa9e81710755aee6.md": "ed89b4d45b5db350e69cfa8382a60f4d1b153beb252849df3126823151700c70",
+    "articles/entry-9d07adeb886a4a9a97361f2403202aea.md": "2fc63086bc93f5da009097edda315831def60510f1b79cd2be27fe3b7d55107c",
     "articles/fly-favicon-open-source.md": "bd9210283ab12ecede0b17563dd97d5eb41c699a63ff3d540a61c0477bc4166f",
     "articles/focus-on-output.md": "b56c950f3ac47469a12210e6abfaf386365e7fdc8c3351ce847bf7e99616dde8",
     "articles/three-open-source-projects-in-one-day.md": "d5c48082c423e2de30d12ab644b1ee807280eb84e6f1072444c85fad04cb5d62",
